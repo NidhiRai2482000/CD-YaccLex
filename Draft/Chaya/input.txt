@@ -1,0 +1,10 @@
+S->w(C)bAe
+O->p
+C->iOn
+C->iOi
+A->L;A
+A->f
+L->i=E
+E->T*F
+T->i
+F->n
